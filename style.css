@@ -1,7 +1,7 @@
 html {
   justify-content: center;
   font-size: 10px;
-  background: url('dragons_game_of_thrones.jpg');
+  background: url('./dragons_game_of_thrones.jpg');
   background-size: cover;
 }
 
